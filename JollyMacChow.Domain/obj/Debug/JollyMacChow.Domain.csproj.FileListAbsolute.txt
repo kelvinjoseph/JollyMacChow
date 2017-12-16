@@ -1,0 +1,11 @@
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\JollyMacChow.Domain.dll.config
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\JollyMacChow.Domain.dll
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\JollyMacChow.Domain.pdb
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\EntityFramework.dll
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\EntityFramework.xml
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\obj\Debug\JollyMacChow.Domain.csprojResolveAssemblyReference.cache
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\obj\Debug\JollyMacChow.Domain.csproj.CoreCompileInputs.cache
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\obj\Debug\JollyMacChow.Domain.dll
+c:\users\comlabpc11\source\repos\JollyMacChow\JollyMacChow.Domain\obj\Debug\JollyMacChow.Domain.pdb
