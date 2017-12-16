@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JollyMacChow.POS", "JollyMacChow.POS\JollyMacChow.POS.csproj", "{BF307860-771C-42D4-9BC2-13792B3BAF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JollyMacChow.Domain", "JollyMacChow.Domain\JollyMacChow.Domain.csproj", "{05D71DFD-B7D6-42A3-AE49-6B08C91B1F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF307860-771C-42D4-9BC2-13792B3BAF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF307860-771C-42D4-9BC2-13792B3BAF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF307860-771C-42D4-9BC2-13792B3BAF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF307860-771C-42D4-9BC2-13792B3BAF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D71DFD-B7D6-42A3-AE49-6B08C91B1F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D71DFD-B7D6-42A3-AE49-6B08C91B1F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D71DFD-B7D6-42A3-AE49-6B08C91B1F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D71DFD-B7D6-42A3-AE49-6B08C91B1F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50F2384-E1A2-42D7-8EC2-1E828E9A6CAE}
+	EndGlobalSection
+EndGlobal
